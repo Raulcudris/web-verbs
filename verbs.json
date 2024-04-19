@@ -1,0 +1,104 @@
+{
+  "verbs": [
+    {
+      "M": "I",
+      "TYPE": "ABIDE",
+      "SIMPLE_FORM": "ABIDES",
+      "THIRD_PERSON": "ABODE",
+      "SIMPLE_PAST": "ABODE",
+      "PAST_PARTICIPLE": "ABIDING",
+      "GERUND": "Morar - Habitar - Tolerar",
+      "MEANING": "N -I - K"
+    },
+    {
+      "M": "R",
+      "TYPE": "ABSORB",
+      "SIMPLE_FORM": "ABSORBS",
+      "THIRD_PERSON": "ABSORBED",
+      "SIMPLE_PAST": "ABSORBED",
+      "PAST_PARTICIPLE": "ABSORBING",
+      "GERUND": "Absorber",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "ADD",
+      "SIMPLE_FORM": "ADDS",
+      "THIRD_PERSON": "ADDED",
+      "SIMPLE_PAST": "ADDED",
+      "PAST_PARTICIPLE": "ADDING",
+      "GERUND": "Añadir",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "ADVANCE",
+      "SIMPLE_FORM": "ADVANCES",
+      "THIRD_PERSON": "ADVANCED",
+      "SIMPLE_PAST": "ADVANCED",
+      "PAST_PARTICIPLE": "ADVANCING",
+      "GERUND": "Avanzar",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "AGREE",
+      "SIMPLE_FORM": "AGREES",
+      "THIRD_PERSON": "AGREED",
+      "SIMPLE_PAST": "AGREED",
+      "PAST_PARTICIPLE": "AGREEING",
+      "GERUND": "Acordar - Estar De Acuerdo - Acceder",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "ANSWER",
+      "SIMPLE_FORM": "ANSWERS",
+      "THIRD_PERSON": "ANSWERED",
+      "SIMPLE_PAST": "ANSWERED",
+      "PAST_PARTICIPLE": "ANSWERING",
+      "GERUND": "Contestar - Responder",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "APPEAR",
+      "SIMPLE_FORM": "APPEARS",
+      "THIRD_PERSON": "APPEARED",
+      "SIMPLE_PAST": "APPEARED",
+      "PAST_PARTICIPLE": "APPEARING",
+      "GERUND": "Aparecer",
+      "MEANING": ""
+    },
+    {
+      "M": "I",
+      "TYPE": "ARISE",
+      "SIMPLE_FORM": "ARISES",
+      "THIRD_PERSON": "AROSE",
+      "SIMPLE_PAST": "ARISEN",
+      "PAST_PARTICIPLE": "ARISING",
+      "GERUND": "Surgir - Levantarse",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "ARRIVE",
+      "SIMPLE_FORM": "ARRIVES",
+      "THIRD_PERSON": "ARRIVED",
+      "SIMPLE_PAST": "ARRIVED",
+      "PAST_PARTICIPLE": "ARRIVING",
+      "GERUND": "Llegar",
+      "MEANING": ""
+    },
+    {
+      "M": "R",
+      "TYPE": "ASK",
+      "SIMPLE_FORM": "ASKS",
+      "THIRD_PERSON": "ASKED",
+      "SIMPLE_PAST": "ASKED",
+      "PAST_PARTICIPLE": "ASKING",
+      "GERUND": "Preguntar",
+      "MEANING": ""
+    }
+  ]
+}
